@@ -6,4 +6,4 @@ Given an ideal experimental spectrum, this algorithm finds a cyclic peptide whos
 
 Contributers:
 - Malk Kahlid 
-- Moahmmed Safa
+- Mohammed Safa
